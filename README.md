@@ -1,5 +1,6 @@
-# 🚀 Quantity Measurement Application – Frontend  
-## 📏 UI Development | Clean Code | Scalable Architecture  
+# 🚀 Quantity Measurement Application – Frontend
+
+## 📏 UI Development | Clean Code | Scalable Architecture
 
 ---
 
@@ -7,9 +8,9 @@
 
 The **Quantity Measurement Application (Frontend)** is designed to provide a clean and interactive UI for performing:
 
-- Unit comparison  
-- Unit conversion  
-- Arithmetic operations on quantities  
+- Unit comparison
+- Unit conversion
+- Arithmetic operations on quantities
 
 This frontend is developed in **two different approaches**:
 
@@ -20,11 +21,11 @@ This frontend is developed in **two different approaches**:
 
 # 🧠 Development Principles
 
-- ✅ Clean Code Practices  
-- ✅ DRY (Don't Repeat Yourself)  
-- ✅ Modular Structure  
-- ✅ Feature-Based Development  
-- ✅ Scalable Architecture  
+- ✅ Clean Code Practices
+- ✅ DRY (Don't Repeat Yourself)
+- ✅ Modular Structure
+- ✅ Feature-Based Development
+- ✅ Scalable Architecture
 
 ---
 
@@ -65,10 +66,10 @@ Build the application using **core web technologies** to strengthen fundamentals
 
 ### 🛠️ Tech Stack
 
-- HTML5  
-- CSS3 (Flexbox, Grid)  
-- JavaScript (ES6+)  
-- JSON Server (Mock Backend)  
+- HTML5
+- CSS3 (Flexbox, Grid)
+- JavaScript (ES6+)
+- JSON Server (Mock Backend)
 
 ---
 
@@ -92,11 +93,11 @@ frontend/
 
 ### ✨ Features
 
-- 📏 Unit Conversion UI  
-- 🔄 Dynamic DOM Updates  
-- 🌐 API Integration (Fetch)  
-- 🎯 Input Validation  
-- 📱 Responsive Design  
+- 📏 Unit Conversion UI
+- 🔄 Dynamic DOM Updates
+- 🌐 API Integration (Fetch)
+- 🎯 Input Validation
+- 📱 Responsive Design
 
 ---
 
@@ -112,9 +113,9 @@ Open index.html in browser
 
 ### 🔥 Key Learnings
 
-- DOM Manipulation  
-- Event Handling  
-- API Integration without frameworks  
-- Code modularization in JavaScript  
+- DOM Manipulation
+- Event Handling
+- API Integration without frameworks
+- Code modularization in JavaScript
 
---- 
+---
