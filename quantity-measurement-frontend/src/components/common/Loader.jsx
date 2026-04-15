@@ -3,7 +3,7 @@ import "./loader.css";
 
 /**
  * This is a stateless, presentational component.
- * It takes no props and simply renders the CSS-based spinner.
+ * It takes no props   and  simply renders the CSS-based spinner.
  */
 const Loader = () => {
   return (
