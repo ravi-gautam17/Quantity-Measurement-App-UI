@@ -19,7 +19,7 @@ const Button = ({
   return (
     <button
       type={type}
-      // Logic: Uses template literals to combine static 'btn' class
+      // Logic: Uses         template literals to combine static 'btn' class
       // with dynamic variant and conditional 'disabled' classes
       className={`btn ${variant} ${disabled ? "disabled" : ""}`}
       onClick={onClick}
